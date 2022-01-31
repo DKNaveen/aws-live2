@@ -1,0 +1,6 @@
+customhost = "employeedatabase.ce7utbzyidxw.ap-south-1.rds.amazonaws.com"
+customuser = "naveen"
+custompass = "naveen96"
+customdb = "employeedata"
+custombucket = "employeewebfiles"
+customregion = "ap-south-1"
